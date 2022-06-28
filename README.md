@@ -40,8 +40,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
-- Check Out Live here 👉 [Product-Card](https://sahaspuria.github.io/Product-Card/)
+- Solution URL 👉 [Product-Card](https://github.com/Sahaspuria/Product-Card/)
+- Live Site URL 👉 [Product-Card](https://sahaspuria.github.io/Product-Card/)
 
 ## My process
 
@@ -77,5 +77,5 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ## Author
 
-- Github - [Sahaspuria](https://www.your-site.com)
+- Github - [Sahaspuria]([https://www.your-site.com](https://github.com/Sahaspuria/)
 - Frontend Mentor - [@Sahaspuria](https://www.frontendmentor.io/profile/Sahaspuria)
